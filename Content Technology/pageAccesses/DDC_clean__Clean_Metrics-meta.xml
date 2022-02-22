@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <pageAccesses>
+        <apexPage>DDC_clean__Clean_Metrics</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
+</Profile>

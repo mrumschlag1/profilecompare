@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>Developer_Program_Application__c-Developer Program Application Layout</layout>
+    </layoutAssignments>
+</Profile>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>sixsense__X6sense_Contact_Score__c-sixsense__6sense Contact Score Layout</layout>
+    </layoutAssignments>
+</Profile>

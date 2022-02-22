@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>bsource__Default_Briefing_Source_Field_Mapping__mdt-bsource__Default Briefing Source Field Mapping Layout</layout>
+    </layoutAssignments>
+</Profile>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>LeanData__Round_Robin_Schedule_Setting__c-LeanData__Round Robin Schedule Setting Layout</layout>
+    </layoutAssignments>
+</Profile>

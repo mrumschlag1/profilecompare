@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>CRMfusionDBR101__Scenario__c.CRMfusionDBR101__Create_Task__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+</Profile>

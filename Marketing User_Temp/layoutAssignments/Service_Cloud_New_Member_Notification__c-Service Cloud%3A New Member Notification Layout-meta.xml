@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>Service_Cloud_New_Member_Notification__c-Service Cloud%3A New Member Notification Layout</layout>
+    </layoutAssignments>
+</Profile>

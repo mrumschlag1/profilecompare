@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>NPNRevTrgtAuto_Job_Tracker__c-NPNRevTrgtAuto Job Tracker Layout</layout>
+    </layoutAssignments>
+</Profile>
