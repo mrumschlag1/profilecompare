@@ -2,6 +2,6 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <tabVisibilities>
         <tab>RMA__c</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>DefaultOff</visibility>
     </tabVisibilities>
 </Profile>

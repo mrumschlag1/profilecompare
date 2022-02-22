@@ -3,6 +3,6 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>ContentVersion.Marketing_Assets</recordType>
-        <visible>true</visible>
+        <visible>false</visible>
     </recordTypeVisibilities>
 </Profile>

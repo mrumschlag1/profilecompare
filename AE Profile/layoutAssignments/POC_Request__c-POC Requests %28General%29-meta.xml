@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>POC_Request__c-POC Requests %28General%29</layout>
+        <recordType>POC_Request__c.POC_Request_Remote_Workstation</recordType>
+    </layoutAssignments>
+</Profile>

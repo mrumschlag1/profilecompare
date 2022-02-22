@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>CPQ_Pricing_HW_ST_PL__c-Networking HW Pricing Table Layout</layout>
+    </layoutAssignments>
+</Profile>

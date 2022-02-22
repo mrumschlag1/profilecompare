@@ -3,6 +3,6 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Opportunity.Special_Pricing_Request</recordType>
-        <visible>true</visible>
+        <visible>false</visible>
     </recordTypeVisibilities>
 </Profile>

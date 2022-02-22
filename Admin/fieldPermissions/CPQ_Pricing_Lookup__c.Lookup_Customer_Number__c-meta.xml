@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>CPQ_Pricing_Lookup__c.Lookup_Customer_Number__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
 </Profile>

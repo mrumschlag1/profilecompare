@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>NPN_PartnerAttributes_Modifiaction__c.LEN_Program_Type__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
 </Profile>

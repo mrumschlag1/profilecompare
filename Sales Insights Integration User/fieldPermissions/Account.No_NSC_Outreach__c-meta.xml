@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.No_NSC_Outreach__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
 </Profile>
