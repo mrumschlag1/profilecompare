@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>SBQQ__Quote__c.IsDiscounted__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
 </Profile>

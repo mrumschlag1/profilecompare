@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>POC_Request__c-POC Requests %28Omniverse%29</layout>
+        <recordType>POC_Request__c.Remote_Collab_Omniverse</recordType>
+    </layoutAssignments>
+</Profile>

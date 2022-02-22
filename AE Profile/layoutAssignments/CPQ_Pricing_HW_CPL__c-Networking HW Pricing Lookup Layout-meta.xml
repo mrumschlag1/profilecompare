@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>CPQ_Pricing_HW_CPL__c-Networking HW Pricing Lookup Layout</layout>
+        <recordType>CPQ_Pricing_HW_CPL__c.Opp_Reg_Pricing_Networking_HW_Test</recordType>
+    </layoutAssignments>
+</Profile>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>Task-Fed DGX A100 Outreach</layout>
+        <recordType>Task.Fed_DGX_A100_Outreach</recordType>
+    </layoutAssignments>
+</Profile>

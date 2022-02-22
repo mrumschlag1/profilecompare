@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>Lead-Jetson Deal Registration</layout>
+        <recordType>Lead.Jetson_Deal_Registration</recordType>
+    </layoutAssignments>
+</Profile>

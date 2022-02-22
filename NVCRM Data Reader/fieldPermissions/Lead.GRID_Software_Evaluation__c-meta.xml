@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Lead.GRID_Software_Evaluation__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
 </Profile>

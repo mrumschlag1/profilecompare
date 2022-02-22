@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>Opportunity-Enterprise Design Wins</layout>
+        <recordType>Opportunity.Enterprise_Design_Wins</recordType>
+    </layoutAssignments>
+</Profile>

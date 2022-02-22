@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>SBQQ__Quote__c.EditLinesFieldSetName__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
 </Profile>

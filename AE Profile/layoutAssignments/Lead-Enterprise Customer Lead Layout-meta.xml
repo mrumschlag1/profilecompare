@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>Lead-Enterprise Customer Lead Layout</layout>
+        <recordType>Lead.Pre_MQL_Lead</recordType>
+    </layoutAssignments>
+</Profile>

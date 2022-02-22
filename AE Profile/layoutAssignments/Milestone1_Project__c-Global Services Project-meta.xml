@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>Milestone1_Project__c-Global Services Project</layout>
+        <recordType>Milestone1_Project__c.Service_Delivery_Project</recordType>
+    </layoutAssignments>
+</Profile>

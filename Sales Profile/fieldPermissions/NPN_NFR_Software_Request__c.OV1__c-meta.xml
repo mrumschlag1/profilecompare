@@ -3,6 +3,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>NPN_NFR_Software_Request__c.OV1__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
 </Profile>

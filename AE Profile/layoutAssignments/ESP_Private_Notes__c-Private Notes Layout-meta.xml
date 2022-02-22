@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutAssignments>
+        <layout>ESP_Private_Notes__c-Private Notes Layout</layout>
+    </layoutAssignments>
+</Profile>
